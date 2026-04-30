@@ -1,0 +1,19 @@
+# ====== Build Output ======
+target/
+*.jar
+*.war
+
+# ====== IDE Files ======
+.idea/
+.vscode/
+*.iml
+
+# ====== Logs ======
+*.log
+
+# ====== OS Files ======
+.DS_Store
+Thumbs.db
+
+# ====== Maven Wrapper (optional ignore if needed) ======
+.mvn/
